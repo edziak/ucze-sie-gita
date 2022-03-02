@@ -1,0 +1,1 @@
+print("tu byłby fajny program gdybym umiała go napisać\n heh")
